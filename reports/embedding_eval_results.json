@@ -1,0 +1,32 @@
+[
+  {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "precision@5": 0.9708,
+    "matches": 9708,
+    "total_queries": 10000
+  },
+  {
+    "model": "thenlper/gte-base",
+    "precision@5": 0.9707,
+    "matches": 9707,
+    "total_queries": 10000
+  },
+  {
+    "model": "intfloat/e5-base-v2",
+    "precision@5": 0.9716,
+    "matches": 9716,
+    "total_queries": 10000
+  },
+  {
+    "model": "BAAI/bge-base-en-v1.5",
+    "precision@5": 0.9728,
+    "matches": 9728,
+    "total_queries": 10000
+  },
+  {
+    "model": "sentence-transformers/sentence-t5-base",
+    "precision@5": 0.97,
+    "matches": 9700,
+    "total_queries": 10000
+  }
+]

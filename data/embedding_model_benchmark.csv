@@ -1,0 +1,81 @@
+query,expected_substring
+Any issues from 192.168.10.8?,192.168.10.8
+Any issues from 192.168.10.3?,192.168.10.3
+What anomalies occurred?,anomaly
+Any issues from 192.168.10.8?,192.168.10.8
+Any issues from 192.168.10.8?,192.168.10.8
+Any issues from 192.168.10.3?,192.168.10.3
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.19?,192.168.10.19
+Show failed DNS queries,dns
+Any issues from 192.168.10.5?,192.168.10.5
+Any issues from 192.168.10.15?,192.168.10.15
+Show failed DNS queries,dns
+Any issues from 192.168.10.19?,192.168.10.19
+Any issues from 192.168.10.3?,192.168.10.3
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.14?,192.168.10.14
+Any issues from 192.168.10.5?,192.168.10.5
+Any issues from 192.168.10.12?,192.168.10.12
+Any issues from 192.168.10.3?,192.168.10.3
+Any issues from 192.168.10.5?,192.168.10.5
+Show failed DNS queries,dns
+Any issues from 192.168.10.5?,192.168.10.5
+Any issues from 192.168.10.3?,192.168.10.3
+Show failed DNS queries,dns
+Any issues from 192.168.10.9?,192.168.10.9
+Any issues from 192.168.10.9?,192.168.10.9
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.8?,192.168.10.8
+Show failed DNS queries,dns
+Any issues from 192.168.10.15?,192.168.10.15
+Any issues from 192.168.10.12?,192.168.10.12
+Show failed DNS queries,dns
+What anomalies occurred?,anomaly
+Any issues from 192.168.10.12?,192.168.10.12
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.19?,192.168.10.19
+What anomalies occurred?,anomaly
+Any issues from 192.168.10.14?,192.168.10.14
+What anomalies occurred?,anomaly
+Any issues from 192.168.10.1??,192.168.10.1?
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+What happened in this log?,jul
+Any issues from 192.168.10.15?,192.168.10.15
+Show failed DNS queries,dns
+Any issues from 192.168.10.15?,192.168.10.15
+Any issues from 192.168.10.3?,192.168.10.3
+Show failed DNS queries,dns
+Any issues from 192.168.10.3?,192.168.10.3
+Any issues from 192.168.10.15?,192.168.10.15
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.3?,192.168.10.3
+What anomalies occurred?,anomaly
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+Any issues from 192.168.10.8?,192.168.10.8
+Any issues from 192.168.10.8?,192.168.10.8
+Show failed DNS queries,dns
+Any issues from 192.168.10.15?,192.168.10.15
+Any issues from 192.168.10.19?,192.168.10.19
+Any issues from 192.168.10.3?,192.168.10.3
+What anomalies occurred?,anomaly
+Show failed DNS queries,dns
+Show failed DNS queries,dns
+What anomalies occurred?,anomaly
+Show failed DNS queries,dns
+Any issues from 192.168.10.15?,192.168.10.15
+Any issues from 192.168.10.12?,192.168.10.12

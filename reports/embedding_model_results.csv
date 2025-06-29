@@ -1,0 +1,81 @@
+model,query,expected,match_rank,top1_hit
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.19?,192.168.10.19,1,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.5?,192.168.10.5,7,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.19?,192.168.10.19,1,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.14?,192.168.10.14,miss,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.5?,192.168.10.5,7,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.12?,192.168.10.12,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.5?,192.168.10.5,7,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.5?,192.168.10.5,7,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.9?,192.168.10.9,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.9?,192.168.10.9,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.12?,192.168.10.12,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.12?,192.168.10.12,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.19?,192.168.10.19,1,False
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.14?,192.168.10.14,miss,False
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.1??,192.168.10.1?,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,What happened in this log?,jul,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.8?,192.168.10.8,4,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.19?,192.168.10.19,1,False
+all-MiniLM-L6-v2,Any issues from 192.168.10.3?,192.168.10.3,0,True
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,What anomalies occurred?,anomaly,miss,False
+all-MiniLM-L6-v2,Show failed DNS queries,dns,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.15?,192.168.10.15,0,True
+all-MiniLM-L6-v2,Any issues from 192.168.10.12?,192.168.10.12,0,True
